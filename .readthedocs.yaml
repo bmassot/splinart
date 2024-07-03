@@ -21,7 +21,7 @@ sphinx:
 
 python:
   install:
-    - methode: pip
+    - method: pip
       path: .
 
 # Optionally build your docs in additional formats such as PDF and ePub
